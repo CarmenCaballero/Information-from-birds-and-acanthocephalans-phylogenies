@@ -1,0 +1,12 @@
+#nexus
+begin host;
+tree H = (((A, (((B, C), D), (((E, F), G), (H, I))), (((J, K), (L, M)), ((N, O), P)))), (Q, (R,
+S)));
+end;
+begin parasite;
+tree P = (((a, (b, c)), d), ((e, f), (g, h)));
+end;
+begin distribution;
+range
+a: A B C D G H J K L M N P O Q R, b: H, c: J, d: N R S, e: B E F G I, f: F, g: A, h: J;
+end;
