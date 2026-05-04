@@ -1,0 +1,1 @@
+Information extracted from birds and acanthocephalans phylogenies used to generate a tanglegram with TreeMap 3.0β in the paper Dispersal of North American Polymorphidae (Acanthocephala) and aquatic birds (Anatidae and Rallidae) along the Central Migratory Flyway, published in the journal ournal of Zoological Systematics and Evolutionary Research
